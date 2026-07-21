@@ -1,0 +1,8 @@
+// Change cookies per second
+Game.cookiesPs = type-a-number-here;
+
+// Change mouse cookies per click
+Game.computedMouseCps = type-a-number-here;
+
+// Multiply production by a number
+Game.gainMult = type-a-number-here;
