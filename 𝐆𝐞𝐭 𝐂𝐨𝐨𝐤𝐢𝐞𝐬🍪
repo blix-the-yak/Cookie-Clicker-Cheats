@@ -1,0 +1,2 @@
+//Set cookie amount
+Game.cookies = 1000000;
