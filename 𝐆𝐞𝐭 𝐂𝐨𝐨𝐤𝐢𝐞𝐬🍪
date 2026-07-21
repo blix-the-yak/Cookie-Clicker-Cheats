@@ -1,2 +1,16 @@
+
+
+
+
 //Set cookie amount
 Game.cookies = 1000000;
+
+// Add cookies 
+Game.Earn(1000000);
+
+// Infinite cookies
+Game.cookies = Infinity;
+
+// Set cookies more than you earned (triggers cheated achievement)
+Game.cookies = Game.cookiesEarned + 1000000;
+
