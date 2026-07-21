@@ -1,7 +1,7 @@
 // Change cookies per second
 Game.cookiesPs = type-a-number-here;
 
-// Change mouse cookies per click
+// Change how many clicks you get for mouse clicking
 Game.computedMouseCps = type-a-number-here;
 
 // Multiply production by a number
