@@ -6,4 +6,4 @@ Some cheat codes can trigger the "Cheated cookies taste awful".
 
 Cheats for making your cookies faster i guess.
 
-𝐈𝐧𝐝𝐞𝐱
+
