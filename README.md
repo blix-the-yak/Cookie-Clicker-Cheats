@@ -1,9 +1,8 @@
 # Cookie-Clicker-Cheats
 
 
-Some cheat codes can trigger the "Cheated cookies taste awful".
+Some cheats can trigger the "Cheated cookies taste awful".
 
-
-Cheats for making your cookies faster i guess.
+To cheat , open up the console then, imput a script then, remove the "type-a-nummber-here" then, imput a number then, run it
 
 
